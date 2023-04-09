@@ -2,10 +2,10 @@ package lang.print.gaps.task4;
 
 public class IntRepresentation {
     public static void main(String[] args) {
-        int c = (int) 'c';
-        int h = (int) 'h';
-        int a = (int) 'a';
-        int r = (int) 'r';
+        int c = 'c';
+        int h = 'h';
+        int a = 'a';
+        int r = 'r';
 
         c = (int) c;
         h = (int) h;
